@@ -1,2 +1,1 @@
-# TEST: Google'in ornek yayinci kimligi. Gercek AdMob yayinci kimligiyle degistirin.
-google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+google.com, pub-6854524935879318, DIRECT, f08c47fec0942fa0
